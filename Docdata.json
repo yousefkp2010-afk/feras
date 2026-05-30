@@ -1,3 +1,23 @@
-{
-  
-}
+[
+  {
+    "name": "يوسف",
+    "gender": "ذكر",
+    "phone": "0934845366",
+    "firstVisit": "2222-02-02",
+    "notes": "",
+    "status": "in-progress",
+    "works": [
+      {
+        "description": "نخر ضرس",
+        "total": 100,
+        "paid": 100,
+        "status": "in-progress"
+      }
+    ],
+    "age": 13,
+    "id": "1780168769469",
+    "createdAt": "2026-05-30T19:19:29.469Z",
+    "updatedAt": "2026-05-30T19:19:29.469Z",
+    "isDeleted": false
+  }
+]

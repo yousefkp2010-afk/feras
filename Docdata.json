@@ -61,31 +61,5 @@
     "createdAt": "2026-05-30T19:38:28.132Z",
     "updatedAt": "2026-05-30T19:38:28.132Z",
     "isDeleted": false
-  },
-  {
-    "name": "يوسف",
-    "gender": "أنثى",
-    "phone": "0985549854",
-    "firstVisit": "2020-01-01",
-    "notes": "طالب صف عاشر ضرسه منخور",
-    "works": [
-      {
-        "description": "ضرس منخور",
-        "total": 1000000,
-        "paid": 1000000
-      },
-      {
-        "description": "ضرس يحتاج لقلع",
-        "total": 500000,
-        "paid": 0
-      }
-    ],
-    "birthdate": "2010-04-24",
-    "age": 16,
-    "id": "1780149127318",
-    "createdAt": "2026-05-30T13:52:07.318Z",
-    "updatedAt": "2026-05-30T13:52:17.800Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-30T15:10:10.393Z"
   }
 ]

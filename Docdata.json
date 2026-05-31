@@ -18,7 +18,8 @@
     "id": "1780221995580",
     "createdAt": "2026-05-31T10:06:35.580Z",
     "updatedAt": "2026-05-31T10:06:35.588Z",
-    "isDeleted": false
+    "isDeleted": true,
+    "deletedAt": "2026-05-31T15:01:39.398Z"
   },
   {
     "name": "شخص 2",

@@ -18,6 +18,7 @@
     "id": "1780240631965",
     "createdAt": "2026-05-31T15:17:11.965Z",
     "updatedAt": "2026-05-31T15:17:11.965Z",
-    "isDeleted": false
+    "isDeleted": true,
+    "deletedAt": "2026-05-31T15:17:41.329Z"
   }
 ]

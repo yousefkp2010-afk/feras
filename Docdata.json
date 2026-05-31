@@ -133,6 +133,7 @@
     "id": "1780169908132",
     "createdAt": "2026-05-30T19:38:28.132Z",
     "updatedAt": "2026-05-30T19:38:28.132Z",
-    "isDeleted": false
+    "isDeleted": true,
+    "deletedAt": "2026-05-31T15:01:51.790Z"
   }
 ]

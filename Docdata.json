@@ -62,7 +62,8 @@
     "id": "1780222147390",
     "createdAt": "2026-05-31T10:09:07.390Z",
     "updatedAt": "2026-05-31T10:09:07.392Z",
-    "isDeleted": false
+    "isDeleted": true,
+    "deletedAt": "2026-05-31T15:01:42.776Z"
   },
   {
     "name": "يوسف",

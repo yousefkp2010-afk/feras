@@ -1,6 +1,6 @@
 [
   {
-    "name": "شخص 1 hhhhhhhhhhhhh",
+    "name": "شخص 1",
     "gender": "ذكر",
     "phone": "0934845366",
     "firstVisit": "2026-05-31",
@@ -19,7 +19,7 @@
     "createdAt": "2026-05-31T10:06:35.580Z",
     "updatedAt": "2026-05-31T10:06:35.588Z",
     "isDeleted": true,
-    "deletedAt": "2026-05-31T15:01:39.398Z"
+    "deletedAt": "2026-05-31T15:16:17.057Z"
   },
   {
     "name": "شخص 2",
@@ -40,8 +40,7 @@
     "id": "1780222047623",
     "createdAt": "2026-05-31T10:07:27.623Z",
     "updatedAt": "2026-05-31T10:07:27.623Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T15:01:56.081Z"
+    "isDeleted": false
   },
   {
     "name": "شخص 3",
@@ -49,7 +48,7 @@
     "phone": "0934845366",
     "firstVisit": "2026-05-31",
     "notes": "هذا الشخص أضيف دون اتصال بالانترنت",
-    "status": "pending",
+    "status": "completed",
     "works": [
       {
         "description": "تجربة",
@@ -62,80 +61,7 @@
     "age": 16,
     "id": "1780222147390",
     "createdAt": "2026-05-31T10:09:07.390Z",
-    "updatedAt": "2026-05-31T10:09:07.392Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T15:01:42.776Z"
-  },
-  {
-    "name": "يوسف",
-    "gender": "ذكر",
-    "phone": "0934845366",
-    "firstVisit": "2222-02-02",
-    "notes": "",
-    "status": "in-progress",
-    "works": [
-      {
-        "description": "نخر ضرس",
-        "total": 100,
-        "paid": 100,
-        "status": "in-progress"
-      }
-    ],
-    "age": 13,
-    "id": "1780168769469",
-    "createdAt": "2026-05-30T19:19:29.469Z",
-    "updatedAt": "2026-05-30T19:19:29.469Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T15:01:53.778Z"
-  },
-  {
-    "name": "رنا",
-    "gender": "أنثى",
-    "phone": "0934845466",
-    "firstVisit": "2026-09-26",
-    "notes": "خطسعقال",
-    "status": "pending",
-    "works": [
-      {
-        "description": "قلع",
-        "total": 100,
-        "paid": 20,
-        "status": "completed"
-      },
-      {
-        "description": "ضرس",
-        "total": 100,
-        "paid": 100,
-        "status": "in-progress"
-      }
-    ],
-    "age": 45,
-    "id": "1780169233042",
-    "createdAt": "2026-05-30T19:27:13.042Z",
-    "updatedAt": "2026-05-30T20:11:47.413Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T15:01:35.547Z"
-  },
-  {
-    "name": "ملهم",
-    "gender": "ذكر",
-    "phone": "09871234",
-    "firstVisit": "2025-04-24",
-    "notes": "بيو بيو أحمد محسن",
-    "status": "completed",
-    "works": [
-      {
-        "description": "اضافة عقل",
-        "total": 1500,
-        "paid": 1500,
-        "status": "completed"
-      }
-    ],
-    "age": 21,
-    "id": "1780169908132",
-    "createdAt": "2026-05-30T19:38:28.132Z",
-    "updatedAt": "2026-05-30T19:38:28.132Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T15:01:51.790Z"
+    "updatedAt": "2026-05-31T12:26:20.757Z",
+    "isDeleted": false
   }
 ]

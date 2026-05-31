@@ -84,7 +84,8 @@
     "id": "1780168769469",
     "createdAt": "2026-05-30T19:19:29.469Z",
     "updatedAt": "2026-05-30T19:19:29.469Z",
-    "isDeleted": false
+    "isDeleted": true,
+    "deletedAt": "2026-05-31T15:01:53.778Z"
   },
   {
     "name": "رنا",

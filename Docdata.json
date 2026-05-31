@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "شخص 1",
+    "gender": "ذكر",
+    "phone": "0934845366",
+    "firstVisit": "2026-05-31",
+    "notes": "هذا الشخص هو أول مريض",
+    "status": "in-progress",
+    "works": [
+      {
+        "description": "تجربة",
+        "total": 100,
+        "paid": 100,
+        "status": "in-progress"
+      }
+    ],
+    "age": 20,
+    "id": "1780221995580",
+    "createdAt": "2026-05-31T10:06:35.580Z",
+    "updatedAt": "2026-05-31T10:06:35.588Z",
+    "isDeleted": false
+  }
+]

@@ -1,24 +1,3 @@
 [
-  {
-    "name": "شخص 1",
-    "gender": "ذكر",
-    "phone": "0934845366",
-    "firstVisit": "2026-05-31",
-    "notes": "",
-    "status": "in-progress",
-    "works": [
-      {
-        "description": "خلع",
-        "total": 188,
-        "paid": 100,
-        "status": "in-progress"
-      }
-    ],
-    "age": 20,
-    "id": "1780240631965",
-    "createdAt": "2026-05-31T15:17:11.965Z",
-    "updatedAt": "2026-05-31T15:17:11.965Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T15:17:41.329Z"
-  }
+ 
 ]

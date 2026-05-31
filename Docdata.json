@@ -40,5 +40,27 @@
     "createdAt": "2026-05-31T10:07:27.623Z",
     "updatedAt": "2026-05-31T10:07:27.623Z",
     "isDeleted": false
+  },
+  {
+    "name": "شخص 3",
+    "gender": "ذكر",
+    "phone": "0934845366",
+    "firstVisit": "2026-05-31",
+    "notes": "هذا الشخص أضيف دون اتصال بالانترنت",
+    "status": "pending",
+    "works": [
+      {
+        "description": "تجربة",
+        "total": 20,
+        "paid": 20,
+        "status": "pending"
+      }
+    ],
+    "birthdate": "2010-04-24",
+    "age": 16,
+    "id": "1780222147390",
+    "createdAt": "2026-05-31T10:09:07.390Z",
+    "updatedAt": "2026-05-31T10:09:07.392Z",
+    "isDeleted": false
   }
 ]

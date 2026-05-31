@@ -19,6 +19,7 @@
     "id": "1780255300337",
     "createdAt": "2026-05-31T19:21:40.337Z",
     "updatedAt": "2026-05-31T19:21:40.337Z",
-    "isDeleted": false
+    "isDeleted": true,
+    "deletedAt": "2026-05-31T21:05:09.013Z"
   }
 ]

@@ -1,25 +1,23 @@
 [
   {
-    "name": "شهد",
-    "gender": "أنثى",
-    "phone": "0966666988",
-    "firstVisit": "2026-05-31",
-    "notes": "",
+    "name": "حمد الخليف",
+    "gender": "ذكر",
+    "phone": "0936881696",
+    "firstVisit": "2026-06-01",
+    "notes": "خصم ٢٠٪",
     "status": "in-progress",
     "works": [
       {
-        "description": "خلع ضرس",
-        "total": 100,
-        "paid": 80,
+        "description": "لبية رحى٢",
+        "total": 600,
+        "paid": 200,
         "status": "in-progress"
       }
     ],
-    "birthdate": "2010-12-11",
-    "age": 15,
-    "id": "1780255300337",
-    "createdAt": "2026-05-31T19:21:40.337Z",
-    "updatedAt": "2026-05-31T19:21:40.337Z",
-    "isDeleted": true,
-    "deletedAt": "2026-05-31T21:05:09.013Z"
+    "age": 23,
+    "id": "1780343973810",
+    "createdAt": "2026-06-01T19:59:33.810Z",
+    "updatedAt": "2026-06-01T19:59:33.810Z",
+    "isDeleted": false
   }
 ]

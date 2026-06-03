@@ -60,7 +60,7 @@
     "age": 16,
     "id": "1780515408611",
     "createdAt": "2026-06-03T19:36:48.614Z",
-    "updatedAt": "2026-06-03T19:37:12.666Z",
+    "updatedAt": "2026-06-03T19:37:36.517Z",
     "isDeleted": false,
     "images": [
       {
@@ -68,9 +68,10 @@
         "sequenceNumber": 1,
         "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1780515408611/images/Yousef_KP_16_1.jpg",
         "path": "patients/1780515408611/images/Yousef_KP_16_1.jpg",
-        "description": "",
+        "description": "مرحباااا",
         "uploadedAt": "2026-06-03T19:37:12.651Z",
-        "addedAt": "2026-06-03T19:37:12.652Z"
+        "addedAt": "2026-06-03T19:37:12.652Z",
+        "updatedAt": "2026-06-03T19:37:36.491Z"
       }
     ]
   }

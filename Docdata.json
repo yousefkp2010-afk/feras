@@ -41,5 +41,37 @@
     "isDeleted": true,
     "images": [],
     "deletedAt": "2026-06-03T19:35:29.681Z"
+  },
+  {
+    "name": "Yousef KP",
+    "gender": "ذكر",
+    "phone": "0966666988",
+    "firstVisit": "2026-06-03",
+    "notes": "هذا المريض تجربة لاضافة الصور",
+    "status": "in-progress",
+    "works": [
+      {
+        "description": "تجربة",
+        "total": 100,
+        "paid": 80,
+        "status": "in-progress"
+      }
+    ],
+    "age": 16,
+    "id": "1780515408611",
+    "createdAt": "2026-06-03T19:36:48.614Z",
+    "updatedAt": "2026-06-03T19:37:12.666Z",
+    "isDeleted": false,
+    "images": [
+      {
+        "fileName": "Yousef_KP_16_1.jpg",
+        "sequenceNumber": 1,
+        "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1780515408611/images/Yousef_KP_16_1.jpg",
+        "path": "patients/1780515408611/images/Yousef_KP_16_1.jpg",
+        "description": "",
+        "uploadedAt": "2026-06-03T19:37:12.651Z",
+        "addedAt": "2026-06-03T19:37:12.652Z"
+      }
+    ]
   }
 ]

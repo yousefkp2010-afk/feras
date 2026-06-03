@@ -45,7 +45,7 @@
     "id": "1780512640330",
     "createdAt": "2026-06-03T18:50:40.330Z",
     "updatedAt": "2026-06-03T18:51:56.113Z",
-    "isDeleted": false,
+    "isDeleted": true,
     "images": [
       {
         "fileName": "محمد_22_1.jpg",
@@ -55,7 +55,8 @@
         "uploadedAt": "2026-06-03T18:51:20.225Z",
         "addedAt": "2026-06-03T18:51:20.225Z"
       }
-    ]
+    ],
+    "deletedAt": "2026-06-03T18:56:44.522Z"
   },
   {
     "name": "يوسف",

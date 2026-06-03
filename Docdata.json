@@ -27,38 +27,6 @@
     "isDeleted": false
   },
   {
-    "name": "محمد",
-    "gender": "ذكر",
-    "phone": "0934845366",
-    "firstVisit": "2026-06-03",
-    "notes": "",
-    "status": "in-progress",
-    "works": [
-      {
-        "description": "خلع",
-        "total": 100,
-        "paid": 40,
-        "status": "in-progress"
-      }
-    ],
-    "age": 22,
-    "id": "1780512640330",
-    "createdAt": "2026-06-03T18:50:40.330Z",
-    "updatedAt": "2026-06-03T18:51:56.113Z",
-    "isDeleted": true,
-    "images": [
-      {
-        "fileName": "محمد_22_1.jpg",
-        "sequenceNumber": 1,
-        "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1780512640330/images/محمد_22_1.jpg",
-        "path": "patients/1780512640330/images/محمد_22_1.jpg",
-        "uploadedAt": "2026-06-03T18:51:20.225Z",
-        "addedAt": "2026-06-03T18:51:20.225Z"
-      }
-    ],
-    "deletedAt": "2026-06-03T18:56:44.522Z"
-  },
-  {
     "name": "يوسف",
     "gender": "ذكر",
     "phone": "0985549854",
@@ -70,7 +38,8 @@
     "id": "1780512888426",
     "createdAt": "2026-06-03T18:54:48.426Z",
     "updatedAt": "2026-06-03T18:55:00.229Z",
-    "isDeleted": false,
-    "images": []
+    "isDeleted": true,
+    "images": [],
+    "deletedAt": "2026-06-03T19:09:38.985Z"
   }
 ]

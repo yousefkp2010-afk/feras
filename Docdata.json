@@ -29,22 +29,6 @@
   {
     "name": "يوسف",
     "gender": "ذكر",
-    "phone": "0985549854",
-    "firstVisit": "2026-06-03",
-    "notes": "",
-    "status": "pending",
-    "works": [],
-    "age": 20,
-    "id": "1780512888426",
-    "createdAt": "2026-06-03T18:54:48.426Z",
-    "updatedAt": "2026-06-03T18:55:00.229Z",
-    "isDeleted": true,
-    "images": [],
-    "deletedAt": "2026-06-03T19:09:38.985Z"
-  },
-  {
-    "name": "يوسف",
-    "gender": "ذكر",
     "phone": "0934845366",
     "firstVisit": "2026-06-03",
     "notes": "",
@@ -53,19 +37,8 @@
     "age": 16,
     "id": "1780513802929",
     "createdAt": "2026-06-03T19:10:02.929Z",
-    "updatedAt": "2026-06-03T19:13:19.345Z",
+    "updatedAt": "2026-06-03T19:17:12.316Z",
     "isDeleted": false,
-    "images": [
-      {
-        "fileName": "يوسف_16_1.jpg",
-        "sequenceNumber": 1,
-        "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1780513802929/images/يوسف_16_1.jpg",
-        "path": "patients/1780513802929/images/يوسف_16_1.jpg",
-        "description": "هذه الصورة هي صورة سن",
-        "uploadedAt": "2026-06-03T19:11:04.635Z",
-        "addedAt": "2026-06-03T19:11:04.635Z",
-        "updatedAt": "2026-06-03T19:13:08.586Z"
-      }
-    ]
+    "images": []
   }
 ]

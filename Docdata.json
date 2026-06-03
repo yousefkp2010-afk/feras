@@ -53,8 +53,18 @@
     "age": 16,
     "id": "1780513802929",
     "createdAt": "2026-06-03T19:10:02.929Z",
-    "updatedAt": "2026-06-03T19:10:07.401Z",
+    "updatedAt": "2026-06-03T19:11:04.635Z",
     "isDeleted": false,
-    "images": []
+    "images": [
+      {
+        "fileName": "يوسف_16_1.jpg",
+        "sequenceNumber": 1,
+        "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1780513802929/images/يوسف_16_1.jpg",
+        "path": "patients/1780513802929/images/يوسف_16_1.jpg",
+        "description": "",
+        "uploadedAt": "2026-06-03T19:11:04.635Z",
+        "addedAt": "2026-06-03T19:11:04.635Z"
+      }
+    ]
   }
 ]

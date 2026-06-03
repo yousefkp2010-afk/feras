@@ -25,5 +25,36 @@
     "createdAt": "2026-06-01T19:59:33.810Z",
     "updatedAt": "2026-06-01T20:00:38.917Z",
     "isDeleted": false
+  },
+  {
+    "name": "محمد",
+    "gender": "ذكر",
+    "phone": "0934845366",
+    "firstVisit": "2026-06-03",
+    "notes": "",
+    "status": "in-progress",
+    "works": [
+      {
+        "description": "خلع",
+        "total": 100,
+        "paid": 40,
+        "status": "in-progress"
+      }
+    ],
+    "age": 22,
+    "id": "1780512640330",
+    "createdAt": "2026-06-03T18:50:40.330Z",
+    "updatedAt": "2026-06-03T18:51:20.225Z",
+    "isDeleted": false,
+    "images": [
+      {
+        "fileName": "محمد_22_1.jpg",
+        "sequenceNumber": 1,
+        "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1780512640330/images/محمد_22_1.jpg",
+        "path": "patients/1780512640330/images/محمد_22_1.jpg",
+        "uploadedAt": "2026-06-03T18:51:20.225Z",
+        "addedAt": "2026-06-03T18:51:20.225Z"
+      }
+    ]
   }
 ]

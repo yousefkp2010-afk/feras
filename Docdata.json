@@ -61,7 +61,7 @@
     "id": "1780515408611",
     "createdAt": "2026-06-03T19:36:48.614Z",
     "updatedAt": "2026-06-03T19:37:36.517Z",
-    "isDeleted": false,
+    "isDeleted": true,
     "images": [
       {
         "fileName": "Yousef_KP_16_1.jpg",
@@ -73,6 +73,7 @@
         "addedAt": "2026-06-03T19:37:12.652Z",
         "updatedAt": "2026-06-03T19:37:36.491Z"
       }
-    ]
+    ],
+    "deletedAt": "2026-06-03T19:38:02.898Z"
   }
 ]

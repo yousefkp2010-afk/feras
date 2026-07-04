@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "name": "Yousef KP",
+    "gender": "ذكر",
+    "phone": "0934845366",
+    "firstVisit": "2026-07-04",
+    "notes": "تتت",
+    "status": "in-progress",
+    "works": [
+      {
+        "description": "تل",
+        "total": 1000,
+        "paid": 500,
+        "status": "in-progress"
+      }
+    ],
+    "age": 16,
+    "id": "1783191134182",
+    "createdAt": "2026-07-04T18:52:14.182Z",
+    "updatedAt": "2026-07-04T18:52:14.182Z",
+    "isDeleted": false,
+    "images": []
+  }
+]

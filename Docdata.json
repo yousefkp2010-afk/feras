@@ -23,5 +23,19 @@
       "images": []
     }
   ],
-  "appointments": []
+  "appointments": [
+    {
+      "date": "2026-07-05",
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "patientId": "1783248866625",
+      "patientName": "yousef",
+      "status": "confirmed",
+      "notes": "",
+      "id": "1783264961488",
+      "createdAt": "2026-07-05T15:22:41.488Z",
+      "updatedAt": "2026-07-05T15:22:41.488Z",
+      "isDeleted": false
+    }
+  ]
 }

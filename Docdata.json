@@ -21,6 +21,38 @@
       "updatedAt": "2026-07-05T10:54:26.625Z",
       "isDeleted": false,
       "images": []
+    },
+    {
+      "name": "molham",
+      "gender": "ذكر",
+      "phone": "0934845366",
+      "firstVisit": "2026-07-05",
+      "notes": "بيو بيو أحمد محسن",
+      "status": "pending",
+      "works": [
+        {
+          "description": "خلع ضرس",
+          "total": 10000,
+          "paid": 8000,
+          "status": "in-progress"
+        }
+      ],
+      "age": 22,
+      "id": "1783267900447",
+      "createdAt": "2026-07-05T16:11:40.447Z",
+      "updatedAt": "2026-07-05T16:11:57.732Z",
+      "isDeleted": false,
+      "images": [
+        {
+          "fileName": "molham_22_1.jpg",
+          "sequenceNumber": 1,
+          "url": "https://raw.githubusercontent.com/yousefkp2010-afk/feras/main/patients/1783267900447/images/molham_22_1.jpg",
+          "path": "patients/1783267900447/images/molham_22_1.jpg",
+          "description": "",
+          "uploadedAt": "2026-07-05T16:11:57.732Z",
+          "addedAt": "2026-07-05T16:11:57.732Z"
+        }
+      ]
     }
   ],
   "appointments": [

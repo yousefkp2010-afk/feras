@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "name": "yousef",
+    "gender": "ذكر",
+    "phone": "0934845366",
+    "firstVisit": "2026-07-05",
+    "notes": "بيو بيو",
+    "status": "pending",
+    "works": [
+      {
+        "description": "خلع ضرس",
+        "total": 100,
+        "paid": 80,
+        "status": "in-progress"
+      }
+    ],
+    "age": 16,
+    "id": "1783248866625",
+    "createdAt": "2026-07-05T10:54:26.625Z",
+    "updatedAt": "2026-07-05T10:54:26.625Z",
+    "isDeleted": false,
+    "images": []
+  }
+]
